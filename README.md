@@ -2,60 +2,14 @@
 
 <h2 align="center"> First Project of RPA (Robotic Process Automation)</h2>
 
-# Index? 🔖
-- [Project](#the-projeto-)
-- [Installation](#pre-requisitos-and-instalation-)
-- [Tecnollogies](#tecnollogies-)
 
 ## The Project 📈
 This project will automate a google search of the current time in Bucharest and return in a text format 'HH:MM'.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ### Prerequisites and Installation 📝🔧
 1) You'll need to create an acount and sign in <a href="https://cloud.uipath.com/inatewaxkxuo/portal_/home">here</a>. 
 2) Download the UiPath Studio (also in the link above). 
 3) Get the UiPath extension for your browser. Open the UiPath Studio and follow the steps <a href="https://cloud.uipath.com/inatewaxkxuo/portal_/home">here</a>.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 ## Technologies 🛠 
 I used the following tecnologies to create the project:

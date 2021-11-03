@@ -12,9 +12,9 @@
 This project will automate a google search of the current time in Bucharest and return in a text formar 'HH:MM'.
 
 ### pre requisitos and Instalation 📝🔧
-1) You'll need to create an acount and sign in <a href="https://cloud.uipath.com/inatewaxkxuo/portal_/home"<here</a>. 
+1) You'll need to create an acount and sign in <a href="https://cloud.uipath.com/inatewaxkxuo/portal_/home">here</a>. 
 2) Download the UiPath Studio (also in the link above). 
-3) Get the UiPath extension for your browser. Open the UiPath Studio and follow the steps <a href="https://cloud.uipath.com/inatewaxkxuo/portal_/home"<here</a>.
+3) Get the UiPath extension for your browser. Open the UiPath Studio and follow the steps <a href="https://cloud.uipath.com/inatewaxkxuo/portal_/home">here</a>.
 
 ### technologies 🛠 
 I use this tecnologies to create this project:

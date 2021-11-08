@@ -14,7 +14,7 @@ This project will automate a google search of the current time in Bucharest and 
 ## Technologies 🛠 
 I used the following tecnologies to create the project:
 - [UiPath platform](https://www.uipath.com/)
-- [Robotic Process Automation](https://www.google.com/search?q=RPA&sxsrf=AOaemvKZEBMaijv4ck7mcWTKXu9zPsUczQ%3A1635965074134&ei=ktiCYbe1B6DX1sQP34qzgA0&oq=RPA&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBQgAEIAEMgQIABBDMgQIABBDMggIABCABBCxAzIFCAAQgAQyCwguEIAEEMcBEK8BMgUIABCABDIECAAQQzIECAAQQzoECCMQJzoOCC4QgAQQsQMQxwEQrwE6CAguEIAEELEDSgQIQRgAUM5CWJhEYOFFaABwAngAgAGHAYgB_gKSAQMwLjOYAQCgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwi3xu7o7PzzAhWgq5UCHV_FDNAQ4dUDCA4&uact=5)
+- [Robotic Process Automation (RPA)](https://www.google.com/search?q=RPA&sxsrf=AOaemvKZEBMaijv4ck7mcWTKXu9zPsUczQ%3A1635965074134&ei=ktiCYbe1B6DX1sQP34qzgA0&oq=RPA&gs_lcp=Cgdnd3Mtd2l6EAMyBwgAELEDEEMyBQgAEIAEMgQIABBDMgQIABBDMggIABCABBCxAzIFCAAQgAQyCwguEIAEEMcBEK8BMgUIABCABDIECAAQQzIECAAQQzoECCMQJzoOCC4QgAQQsQMQxwEQrwE6CAguEIAEELEDSgQIQRgAUM5CWJhEYOFFaABwAngAgAGHAYgB_gKSAQMwLjOYAQCgAQHAAQE&sclient=gws-wiz&ved=0ahUKEwi3xu7o7PzzAhWgq5UCHV_FDNAQ4dUDCA4&uact=5)
 
 ## Help ✋ 
 If you want to get an introduction about UiPath Studio click <a href="https://docs.uipath.com/studio/docs/introduction">here</a>
